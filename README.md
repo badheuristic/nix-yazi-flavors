@@ -106,7 +106,7 @@ Here you can browse all the flavors available in this repository.
 
 <details>
 <summary>
-<a href="https://github.com/yazi-rs/flavors/tree/main/base16.yazi">base16.yazi</a>
+<a href="https://github.com/matt-dong-123/base16.yazi">base16.yazi</a>
 </summary>
 
 ```nix
