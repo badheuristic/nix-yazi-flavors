@@ -113,7 +113,6 @@ Here you can browse all the flavors available in this repository.
 pkgs.yaziFlavors.base16.yazi
 ```
 
-<img src="https://github.com/yazi-rs/flavors/tree/main/base16.yazi/preview.png" alt="Base16">
 </details>
 
 <details>
